@@ -1,0 +1,12 @@
+c:\users\roberto\documents\visual studio 2013\Projects\ProyectoBar\ProyectoBar\bin\Debug\ProyectoBar.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.MenuAdministrador.resources
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.MenuEmpleado.resources
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.RegistrarEmpleados.resources
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\bin\Debug\ProyectoBar.exe
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\bin\Debug\ProyectoBar.pdb
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.exe
+C:\Users\Roberto\Documents\Visual Studio 2013\Projects\ProyectoBar\ProyectoBar\obj\Debug\ProyectoBar.pdb
